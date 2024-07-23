@@ -25,11 +25,6 @@ Olá! Sou uma desenvolvedora front-end iniciante, residente no Rio de Janeiro, c
 
 [![Patrícia Rufino Web GitHub Stats](https://github-readme-stats.vercel.app/api?username=patrufino-web&show_icons=true&count_private=true)](https://github.com/patrufino-web)
 
-### Repositórios do Github
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=patrufino-web&repo=repo-1&show_owner=true)](https://github.com/patrufino-web/repo-1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=patrufino-web&repo=repo-2&show_owner=true)](https://github.com/patrufino-web/repo-2)
-
 ### Conecte-se comigo 🤝🏻
 
 <p align="center">
