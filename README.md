@@ -1,6 +1,6 @@
  
 
-### Olá 👋 Eu sou [Patrícia Rufino Web] 
+### Olá 👋 Eu sou Patrícia Rufino - Dev Web
 > Desenvolvedora Front-End 
 
 <img src="https://komarev.com/ghpvc/?username=patrufino-web" alt="patrufino-web" />
